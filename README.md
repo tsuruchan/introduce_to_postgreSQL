@@ -9,7 +9,7 @@
 
 
 ## 参考文献
-![](http://www.amazon.co.jp/dp/4797376279)
+![](https://images-na.ssl-images-amazon.com/images/I/513Kq0DFpnL._SX358_BO1,204,203,200_.jpg)
 
 #### 書名
 10年戦えるデータ分析入門　SQLを武器にデータ活用時代を生き抜く
